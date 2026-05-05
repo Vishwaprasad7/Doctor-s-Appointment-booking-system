@@ -15,7 +15,7 @@ This project is useful for learning **database management, authentication, and C
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS,  
-- **Backend:** (Java)  
+- **Backend:** (php)  
 - **Database:** MySQL / SQLite  
 - **Version Control:** Git & GitHub  
 
